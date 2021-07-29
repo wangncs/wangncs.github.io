@@ -1,7 +1,13 @@
 ---
 layout: archive
-title: "Services"
-permalink: /service/
+title: "Activities"
+permalink: /activities/
 author_profile: true
 ---
 
+{% include base_path %}
+
+
+{% for post in site.activites %}
+  {% include archive-single.html %}
+{% endfor %}
