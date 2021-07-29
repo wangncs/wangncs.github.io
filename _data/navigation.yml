@@ -17,8 +17,8 @@ main:
         
   - title: "Services"
     url: /service/
-    
-   - title: "Activites"
+  
+  - title: "Activites"
     url: /activities/  
 
 
