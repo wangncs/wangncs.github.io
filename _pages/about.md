@@ -12,7 +12,6 @@ Dr. Wang joined [Department of Computer Science](https://csm.rowan.edu/departmen
 
 Dr. Wang’s curriculum vitae can be found [here](CV_Ning_Wang.pdf).
 
-(myLib/README.md)
 
 Research Interests
 ======
