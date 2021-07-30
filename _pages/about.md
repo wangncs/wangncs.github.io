@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Wang joined [Department of Computer Science](https://csm.rowan.edu/departments/cs/index.html) of [Rowan University](https://www.rowan.edu/) as an Assistant Professor in September 2018. He received his Ph.D. degree from Department of Computer and Information Sciences, Temple University, Philadelphia, PA, USA. Previously, he obtained his B.E. degree from School of Physical Electronics, University of Electronic Science and Technology of China, Chengdu, Sichuan, China.
+Dr. Wang joined Department of Computer Science of Rowan University as an Assistant Professor in September 2018. He received his Ph.D. degree from Department of Computer and Information Sciences, Temple University, Philadelphia, PA, USA. Previously, he obtained his B.E. degree from School of Physical Electronics, University of Electronic Science and Technology of China, Chengdu, Sichuan, China.
 
 Dr. Wang’s curriculum vitae can be found [here](CV_Ning_Wang.pdf).
 
