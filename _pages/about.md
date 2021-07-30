@@ -18,7 +18,7 @@ Research Interests
 Dr. Wang is interested in applying emerging deep learning technique into Internet of Things systems to develop innovative services (e.g., intelligent transportant systems, autonomous driving, smart home/building/campus). In particular, he focuses on scheduling, resouce managment, and decision-making problems. 
 
 
-There are research positions available. Feel free to send me an email if you are interested in my research. I am also interested in hosting visiting scholars/students.
+ <span style="color:blue"> There are research positions available. Feel free to send me an email if you are interested in my research. I am also interested in hosting visiting scholars/students. </span>
 
 News
 ------
