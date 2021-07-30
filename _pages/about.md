@@ -22,6 +22,6 @@ There are research positions available. Feel free to send me an email if you are
 
 News
 ------
- <span style="color:blue"> [06/2021]text</span>.  Our paper was accepted by IEEE Intelligent Transportation Systems Conference (ITSC)!
+ <span style="color:blue"> [06/2021] </span>.  Our paper was accepted by IEEE Intelligent Transportation Systems Conference (ITSC)!
 
- <span style="color:blue"> [04/2021]text</span>.  I will serve as the TPC member in IEEE INFOCOM'22!
+ <span style="color:blue"> [04/2021] </span>.  I will serve as the TPC member in IEEE INFOCOM'22!
