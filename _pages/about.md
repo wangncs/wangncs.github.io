@@ -24,4 +24,4 @@ News
 ------
  <span style="color:blue"> [06/2021] </span>  Our paper was accepted by IEEE Intelligent Transportation Systems Conference (ITSC)!
 
- <span style="color:blue"> [04/2021] </span>  I will serve as the TPC member in IEEE INFOCOM'22!
+ <span style="color:blue"> [04/2021] </span>  I will serve as a TPC member in IEEE INFOCOM'22!
