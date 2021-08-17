@@ -22,6 +22,8 @@ Dr. Wang is interested in applying emerging deep learning technique into Interne
 
 News
 ------
+[08/2021] Our paper was accepted by IEEE Global Communications Conference （GLOBECOM)!
+
 [06/2021] Our paper was accepted by IEEE Intelligent Transportation Systems Conference (ITSC)!
 
 [04/2021] I will serve as a TPC member in IEEE INFOCOM'22!
