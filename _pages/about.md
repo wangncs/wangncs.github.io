@@ -22,6 +22,8 @@ Dr. Wang is interested in applying emerging deep learning technique into Interne
 
 News
 ------
+[08/2021] Our project was funded by NSF Cyber-Physical Systems Program. Many thanks to NSF!
+
 [08/2021] Our paper was accepted by IEEE Global Communications Conference (GLOBECOM)!
 
 [06/2021] Our paper was accepted by IEEE Intelligent Transportation Systems Conference (ITSC)!
