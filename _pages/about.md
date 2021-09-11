@@ -22,6 +22,8 @@ Dr. Wang is interested in applying emerging deep learning technique into Interne
 
 News
 ------
+[09/2021] We received funding from U.S. Environmental Protection Agency (EPA). Many thanks to U.S.EPA!
+
 [08/2021] Our project was funded by NSF Cyber-Physical Systems Program. Many thanks to NSF!
 
 [08/2021] Our paper was accepted by IEEE Global Communications Conference (GLOBECOM)!
