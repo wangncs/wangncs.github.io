@@ -15,7 +15,7 @@ Ning Wang’s curriculum vitae can be found [here](CV_Ning_Wang.pdf).
 
 Research Interests
 ======
-Dr. Wang is interested in applying emerging deep learning techniques into Internet of Things systems to develop innovative services (e.g., intelligent transportation systems, autonomous driving, and smart home/building/campus). He focuses on scheduling, resource managment, and decision-making problems. 
+Dr. Wang is interested in applying emerging deep learning techniques into Internet of Things systems to develop innovative services (e.g., intelligent transportation systems, edge computing, and smart home/building/campus). He focuses on scheduling, resource managment, and decision-making problems. 
 
 
  <span style="color:blue"> There are research positions available. Feel free to send me an email if you are interested in our on-going projects. I am also interested in hosting visiting scholars/students. </span>
