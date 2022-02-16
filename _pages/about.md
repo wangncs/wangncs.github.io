@@ -22,6 +22,8 @@ Dr. Wang is interested in applying emerging deep learning techniques into Intern
 
 News
 ------
+[02/2022] We received funding from County of Gloucester. Many thanks to County of Gloucester!
+
 [09/2021] Our project was reported by Rowan Today! [Advancing driver safety technology so it’s more affordable, accessible](https://today.rowan.edu/news/2021/09/improving-ai-driver-assistance-tools.html)
 
 [09/2021] We received funding from U.S. Environmental Protection Agency (EPA). Many thanks to U.S.EPA!
