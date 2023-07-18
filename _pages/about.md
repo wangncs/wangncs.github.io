@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Ning Wang joined Department of Computer Science of Rowan University as an Assistant Professor in September 2018. He received his Ph.D. degree from Department of Computer and Information Sciences, Temple University, supervised by [Jie Wu](https://cis.temple.edu/~wu/). Previously, he obtained his B.E. degree from School of Physical Electronics, University of Electronic Science and Technology of China.
+Ning Wang joined [Department of Computer Science of Rowan University](https://csm.rowan.edu/departments/cs/) as an Assistant Professor in September 2018. He received his Ph.D. degree from [Department of Computer and Information Sciences, Temple University](https://cis.temple.edu/), supervised by [Jie Wu](https://cis.temple.edu/~wu/). Previously, he obtained his B.E. degree from School of Physical Electronics, University of Electronic Science and Technology of China.
 
 Ning Wang’s curriculum vitae can be found [here](CV_Ning_Wang.pdf).
 
